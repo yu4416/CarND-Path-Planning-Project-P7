@@ -3,7 +3,7 @@ Self-Driving Car Engineer Nanodegree Program
    
 [//]: # (Image References)
 
-[image1]: ../../../result/result.JPG "Result"   
+[image1]: /result/result.JPG "Result"   
 
 ### Algorithm
 
